@@ -76,9 +76,9 @@ A visually rich portfolio with scroll animations, responsive design, and perform
 
 ## 📈 GitHub Stats
 
-![Hussien's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula)
+![Hussien's GitHub stats](https://github-readme-stats.vercel.app/api?username=HsenghaddarE&show_icons=true&theme=dracula)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hsenghaddar&layout=compact&theme=dracula)
 
 ---
 
